@@ -15,6 +15,10 @@ function header() {
             </ul>
         </nav>      
         </header>
+        <div>
+            <h2 className="text-xl font-semibold mt-4">Welcome to My Project</h2>
+            <p className="mt-2">This is a simple React project to demonstrate basic components and styling.</p>
+        </div>
 
     </div>
   )
