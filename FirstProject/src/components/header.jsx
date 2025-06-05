@@ -11,8 +11,12 @@ function header() {
                 <li><a href="#about" className="hover:underline">About</a></li>
                 <li><a href="#contact" className="hover:underline">Contact</a></li>
                 <li><a href="#blog" className="hover:underline">Blog</a></li>
+<<<<<<< HEAD
                 <li><a href="#projects" className="hover:underline">Projects</a></li>
                 <li><a href="#projects" className="hover:underline">Free</a></li>
+=======
+                <li><a href="#projects" className="hover:underline">Help</a></li>
+>>>>>>> ee78125b871f1ef7ce4e4b9eed3a79087d6e5994
             </ul>
         </nav>      
         </header>
