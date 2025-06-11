@@ -12,7 +12,7 @@ function header() {
                 <li><a href="#contact" className="hover:underline">Contact</a></li>
                 <li><a href="#blog" className="hover:underline">Blog</a></li>
                 <li><a href="#projects" className="hover:underline">Help</a></li>
-                <li><a href="#contact-us">Contact Us</a></li>
+                <li><a href="#contact-us">CU</a></li>
             </ul>
         </nav>      
         </header>
